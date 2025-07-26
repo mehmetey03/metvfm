@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Lilo ve Stiç" tvg-language="Turkish" tvg-country="TR" tvg-id="LILO_VE_STIC" tvg-logo="https://dizifun4.com/images/data/2002_lilo-ve-stic.webp" group-title="Filmler",Lilo ve Stiç
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zipxelb2toynv28ic6bq/master.m3u8
+#EXTINF:-1 tvg-name="Stitch’in Filmi" tvg-language="Turkish" tvg-country="TR" tvg-id="STITCHIN_FILMI" tvg-logo="https://dizifun4.com/images/data/2003_stitchin-filmi.webp" group-title="Filmler",Stitch’in Filmi
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qi2qbptj94at3so1o7hg/master.m3u8
+#EXTINF:-1 tvg-name="Lilo & Stiç" tvg-language="Turkish" tvg-country="TR" tvg-id="LILO_STIC" tvg-logo="https://dizifun4.com/images/data/2025_lilo-stic.webp" group-title="Filmler",Lilo & Stiç
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xe24oxc45aodrzjqyj53/master.m3u8
+#EXTINF:-1 tvg-name="Lilo ve Stiç 2: Stiç Zor Durumda" tvg-language="Turkish" tvg-country="TR" tvg-id="LILO_VE_STIC_2_STIC_ZOR_DURUMDA" tvg-logo="https://dizifun4.com/images/data/2005_lilo-ve-stic-2-stic-zor-durumda.webp" group-title="Filmler",Lilo ve Stiç 2: Stiç Zor Durumda
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/nh1jbi3om2z549pr1qap/master.m3u8
+#EXTINF:-1 tvg-name="Cehennem Gibi Bir Yaz" tvg-language="Turkish" tvg-country="TR" tvg-id="CEHENNEM_GIBI_BIR_YAZ" tvg-logo="https://dizifun4.com/images/data/2025_cehennem-gibi-bir-yaz.webp" group-title="Filmler",Cehennem Gibi Bir Yaz
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/g4xc8yjlt726jsfdppfi/master.m3u8
+#EXTINF:-1 tvg-name="Son Ritüel" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_RITUEL" tvg-logo="https://dizifun4.com/images/data/2025_son-rituel.webp" group-title="Filmler",Son Ritüel
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/p7419lygj2v4awefrn45/master.m3u8
+#EXTINF:-1 tvg-name="Mutlu Gilmore 2" tvg-language="Turkish" tvg-country="TR" tvg-id="MUTLU_GILMORE_2" tvg-logo="https://dizifun4.com/images/data/2025_mutlu-gilmore-2.webp" group-title="Filmler",Mutlu Gilmore 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/m7m36z7m3emabf5mzmhl/master.m3u8
+#EXTINF:-1 tvg-name="Dev Primatların Savaşı" tvg-language="Turkish" tvg-country="TR" tvg-id="DEV_PRIMATLARIN_SAVASI" tvg-logo="https://dizifun4.com/images/data/2023_dev-primatlarin-savasi.webp" group-title="Filmler",Dev Primatların Savaşı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/or7dljb8mlocz4oz7nrt/master.m3u8
+#EXTINF:-1 tvg-name="Uçuş Dersleri" tvg-language="Turkish" tvg-country="TR" tvg-id="UCUS_DERSLERI" tvg-logo="https://dizifun4.com/images/data/2010_ucus-dersleri.webp" group-title="Filmler",Uçuş Dersleri
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/kotrfgwcjbjbauj1dcba/master.m3u8
+#EXTINF:-1 tvg-name="Bugün Aslında Dündü" tvg-language="Turkish" tvg-country="TR" tvg-id="BUGUN_ASLINDA_DUNDU" tvg-logo="https://dizifun4.com/images/data/1993_bugun-aslinda-dundu.webp" group-title="Filmler",Bugün Aslında Dündü
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/98oqqmhewtfwlvsfe411/master.m3u8
+#EXTINF:-1 tvg-name="Çıplak Vatandaş" tvg-language="Turkish" tvg-country="TR" tvg-id="CIPLAK_VATANDAS" tvg-logo="https://dizifun4.com/images/data/1985_ciplak-vatandas.webp" group-title="Filmler",Çıplak Vatandaş
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/u9gz2imuoulvq2a14qsm/master.m3u8
+#EXTINF:-1 tvg-name="Normal Bir Kadın" tvg-language="Turkish" tvg-country="TR" tvg-id="NORMAL_BIR_KADIN" tvg-logo="https://dizifun4.com/images/data/2025_normal-bir-kadin.webp" group-title="Filmler",Normal Bir Kadın
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/j26v6ddpugbncahfr7l1/master.m3u8
 #EXTINF:-1 tvg-name="Diren!" tvg-language="Turkish" tvg-country="TR" tvg-id="DIREN" tvg-logo="https://dizifun4.com/images/data/2015_diren.webp" group-title="Filmler",Diren!
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/fby4c5zvj2xc2mtce6ly/master.m3u8
 #EXTINF:-1 tvg-name="Kaplumbağa ve Tavşan" tvg-language="Turkish" tvg-country="TR" tvg-id="KAPLUMBAGA_VE_TAVSAN" tvg-logo="https://dizifun4.com/images/data/2008_kaplumbaga-ve-tavsan.webp" group-title="Filmler",Kaplumbağa ve Tavşan

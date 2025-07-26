@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER11" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 1
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ybtytftqod6bu99s3wsc/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER12" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/tutamenqfhk987kfhltz/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 3" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER13" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 3
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/hcjv1m852i8v73wamoa9/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 4" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER14" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 4
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/wfq7cai5w2dpzzobb8h2/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 5" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER15" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 5
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/788yjme7r2rfw3tm6fz7/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 6" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER16" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 6
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/e3yy1ep4oqdpwkukwkar/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 7" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER17" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 7
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/atbfl3o6kjdpnpybnet2/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER18" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 8
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/8uppka6sv2rgnx3rld26/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 9" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER19" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 9
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/rj2yesrcs5nc7rkxhfzl/master.m3u8
+#EXTINF:-1 tvg-name="Trigger Sezon 1 Bölüm 10" tvg-language="Turkish" tvg-country="TR" tvg-id="TRIGGER110" tvg-logo="https://dizifun4.com/images/data/2025_trigger.webp" group-title="Trigger",Trigger Sezon 1 Bölüm 10
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/x224nd1gztj2x931xlrd/master.m3u8
+#EXTINF:-1 tvg-name="Ufak Yangınlar Sezon 1 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="UFAK_YANGINLAR11" tvg-logo="https://dizifun4.com/images/data/2020_ufak-yanginlar.webp" group-title="Ufak Yangınlar",Ufak Yangınlar Sezon 1 Bölüm 1
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/gfl2fa5cvcam27d1wzdk/master.m3u8
+#EXTINF:-1 tvg-name="Ufak Yangınlar Sezon 1 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="UFAK_YANGINLAR12" tvg-logo="https://dizifun4.com/images/data/2020_ufak-yanginlar.webp" group-title="Ufak Yangınlar",Ufak Yangınlar Sezon 1 Bölüm 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1tgm53jgomonjwb82ukp/master.m3u8
+#EXTINF:-1 tvg-name="Ufak Yangınlar Sezon 1 Bölüm 3" tvg-language="Turkish" tvg-country="TR" tvg-id="UFAK_YANGINLAR13" tvg-logo="https://dizifun4.com/images/data/2020_ufak-yanginlar.webp" group-title="Ufak Yangınlar",Ufak Yangınlar Sezon 1 Bölüm 3
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/5mxvx5z426g1rf4ofc3e/master.m3u8
+#EXTINF:-1 tvg-name="Ufak Yangınlar Sezon 1 Bölüm 4" tvg-language="Turkish" tvg-country="TR" tvg-id="UFAK_YANGINLAR14" tvg-logo="https://dizifun4.com/images/data/2020_ufak-yanginlar.webp" group-title="Ufak Yangınlar",Ufak Yangınlar Sezon 1 Bölüm 4
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/tfwcbn37yfsak3gcealw/master.m3u8
+#EXTINF:-1 tvg-name="Ufak Yangınlar Sezon 1 Bölüm 5" tvg-language="Turkish" tvg-country="TR" tvg-id="UFAK_YANGINLAR15" tvg-logo="https://dizifun4.com/images/data/2020_ufak-yanginlar.webp" group-title="Ufak Yangınlar",Ufak Yangınlar Sezon 1 Bölüm 5
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/16dmw43n3kznprj18yhc/master.m3u8
+#EXTINF:-1 tvg-name="Ufak Yangınlar Sezon 1 Bölüm 6" tvg-language="Turkish" tvg-country="TR" tvg-id="UFAK_YANGINLAR16" tvg-logo="https://dizifun4.com/images/data/2020_ufak-yanginlar.webp" group-title="Ufak Yangınlar",Ufak Yangınlar Sezon 1 Bölüm 6
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/z27ylqch5n94wxhl8766/master.m3u8
+#EXTINF:-1 tvg-name="Ufak Yangınlar Sezon 1 Bölüm 7" tvg-language="Turkish" tvg-country="TR" tvg-id="UFAK_YANGINLAR17" tvg-logo="https://dizifun4.com/images/data/2020_ufak-yanginlar.webp" group-title="Ufak Yangınlar",Ufak Yangınlar Sezon 1 Bölüm 7
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/wm9ph4biwvjw2b11o5ag/master.m3u8
+#EXTINF:-1 tvg-name="Ufak Yangınlar Sezon 1 Bölüm 8" tvg-language="Turkish" tvg-country="TR" tvg-id="UFAK_YANGINLAR18" tvg-logo="https://dizifun4.com/images/data/2020_ufak-yanginlar.webp" group-title="Ufak Yangınlar",Ufak Yangınlar Sezon 1 Bölüm 8
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/wt6ibl3mhhmticapcxco/master.m3u8
 #EXTINF:-1 tvg-name="Washington Black Sezon 1 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="WASHINGTON_BLACK11" tvg-logo="https://dizifun4.com/images/data/2025_washington-black.webp" group-title="Washington Black",Washington Black Sezon 1 Bölüm 1
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/wqhac485wr8hibekhzua/master.m3u8
 #EXTINF:-1 tvg-name="Washington Black Sezon 1 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="WASHINGTON_BLACK12" tvg-logo="https://dizifun4.com/images/data/2025_washington-black.webp" group-title="Washington Black",Washington Black Sezon 1 Bölüm 2
@@ -1095,6 +1131,54 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/sz6xxq89hl3n74qh8hlb/master.m3u8
 #EXTINF:-1 tvg-name="The Big Bang Theory Sezon 3 Bölüm 23" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY323" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 3 Bölüm 23
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ym56bwamcvle8us4ejp2/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY41" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 1
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/44tudrf7rk6ebhwe24uq/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY42" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1r5982uydiknxtn4ij1f/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 3" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY43" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 3
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/z99jdkm8villg7r4q4nv/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 4" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY44" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 4
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1qty26cp8tmrwfm8vc99/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 5" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY45" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 5
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/kaoxcntp98tlr9oa1xyu/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 6" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY46" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 6
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/sy26vu54lvg3puttxsi4/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 7" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY47" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 7
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/c83h6jum6536umpbzky7/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 8" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY48" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 8
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/shd71qwyq7sitrzwep9r/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 9" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY49" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 9
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/66aubagld76y21xlknz6/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 10" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY410" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 10
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/rt12a6vwg5qe33qeabfj/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 11" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY411" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 11
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xufgr4qzifjhso982dhy/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 12" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY412" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 12
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/y6zbovjixnz8mn2z1orm/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 13" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY413" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 13
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ffy9tq3edq1nlywtr75l/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 14" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY414" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 14
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zmfheywj5kqx9brg8nps/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 15" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY415" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 15
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/u2a2w653mol5yoh7eg62/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 16" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY416" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 16
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/3tpii9tfoy86anpuzqdy/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 17" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY417" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 17
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/fd1crlmcfvwyby5nrca2/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 18" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY418" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 18
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/4c34j9suoz8luzkpl2q1/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 19" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY419" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 19
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/b8djc2xdcolx2y1iud7o/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 20" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY420" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 20
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xavrol6aea697c7m3xny/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 21" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY421" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 21
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ktnhmw8x2vqruvs731tg/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 22" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY422" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 22
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/3xk5uhkwghythq44pgjd/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 23" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY423" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 23
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/72e9am6ojd4sm146nbwx/master.m3u8
+#EXTINF:-1 tvg-name="The Big Bang Theory Sezon 4 Bölüm 24" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_BIG_BANG_THEORY424" tvg-logo="https://dizifun4.com/images/data/2007_the-big-bang-theory.webp" group-title="The Big Bang Theory",The Big Bang Theory Sezon 4 Bölüm 24
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/mr3jw7jwuquczhfdhcfp/master.m3u8
 #EXTINF:-1 tvg-name="Euphoria Sezon 1 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="EUPHORIA11" tvg-logo="https://dizifun4.com/images/data/2019_euphoria.webp" group-title="Euphoria",Euphoria Sezon 1 Bölüm 1
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/uivjm5xtlnyoz2k41jxd/master.m3u8
 #EXTINF:-1 tvg-name="Euphoria Sezon 1 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="EUPHORIA12" tvg-logo="https://dizifun4.com/images/data/2019_euphoria.webp" group-title="Euphoria",Euphoria Sezon 1 Bölüm 2
@@ -2539,6 +2623,8 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xi3ix8xr6f782zq8sq2s/master.m3u8
 #EXTINF:-1 tvg-name="Rage Sezon 1 Bölüm 3" tvg-language="Turkish" tvg-country="TR" tvg-id="RAGE13" tvg-logo="https://dizifun4.com/images/data/2025_rage.webp" group-title="Rage",Rage Sezon 1 Bölüm 3
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/jo4usi27rpztkfhlvehu/master.m3u8
+#EXTINF:-1 tvg-name="Rage Sezon 1 Bölüm 4" tvg-language="Turkish" tvg-country="TR" tvg-id="RAGE14" tvg-logo="https://dizifun4.com/images/data/2025_rage.webp" group-title="Rage",Rage Sezon 1 Bölüm 4
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/pqjk9yk7tsimped9o9m8/master.m3u8
 #EXTINF:-1 tvg-name="Suspicious Minds Sezon 1 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SUSPICIOUS_MINDS11" tvg-logo="https://dizifun4.com/images/data/2025_suspicious-minds.webp" group-title="Suspicious Minds",Suspicious Minds Sezon 1 Bölüm 1
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/h8kgow8igl4oi1j3kuap/master.m3u8
 #EXTINF:-1 tvg-name="Suspicious Minds Sezon 1 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SUSPICIOUS_MINDS12" tvg-logo="https://dizifun4.com/images/data/2025_suspicious-minds.webp" group-title="Suspicious Minds",Suspicious Minds Sezon 1 Bölüm 2
@@ -4657,6 +4743,8 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/5nd63ru3owpybd11motq/master.m3u8
 #EXTINF:-1 tvg-name="Modern Kadın Sezon 1 Bölüm 6" tvg-language="Turkish" tvg-country="TR" tvg-id="MODERN_KADIN16" tvg-logo="https://dizifun4.com/images/data/2025_modern-kadin.webp" group-title="Modern Kadın",Modern Kadın Sezon 1 Bölüm 6
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/i2vbqgd4fb4thi3gryl5/master.m3u8
+#EXTINF:-1 tvg-name="Modern Kadın Sezon 1 Bölüm 7" tvg-language="Turkish" tvg-country="TR" tvg-id="MODERN_KADIN17" tvg-logo="https://dizifun4.com/images/data/2025_modern-kadin.webp" group-title="Modern Kadın",Modern Kadın Sezon 1 Bölüm 7
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ysltia46il9dcztz9bfw/master.m3u8
 #EXTINF:-1 tvg-name="The Waterfront Sezon 1 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_WATERFRONT11" tvg-logo="https://dizifun4.com/images/data/2025_the-waterfront.webp" group-title="The Waterfront",The Waterfront Sezon 1 Bölüm 1
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/cnid12nrpwfcvme7gu4p/master.m3u8
 #EXTINF:-1 tvg-name="The Waterfront Sezon 1 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_WATERFRONT12" tvg-logo="https://dizifun4.com/images/data/2025_the-waterfront.webp" group-title="The Waterfront",The Waterfront Sezon 1 Bölüm 2
@@ -5373,6 +5461,8 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2ttt52r2nfld5xcr8jrx/master.m3u8
 #EXTINF:-1 tvg-name="Pati Sezon 2 Bölüm 4" tvg-language="Turkish" tvg-country="TR" tvg-id="PATI24" tvg-logo="https://dizifun4.com/images/data/15-06-2025-pati.webp" group-title="Pati",Pati Sezon 2 Bölüm 4
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/338lehcy3cm3l4911c4d/master.m3u8
+#EXTINF:-1 tvg-name="Pati Sezon 2 Bölüm 5" tvg-language="Turkish" tvg-country="TR" tvg-id="PATI25" tvg-logo="https://dizifun4.com/images/data/15-06-2025-pati.webp" group-title="Pati",Pati Sezon 2 Bölüm 5
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/4zmew23khytmd8wxhzhn/master.m3u8
 #EXTINF:-1 tvg-name="Kurtlar Vadisi: Pusu Sezon 1 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="KURTLAR_VADISI_PUSU11" tvg-logo="https://dizifun4.com/images/data/2007_kurtlar-vadisi-pusu.webp" group-title="Kurtlar Vadisi: Pusu",Kurtlar Vadisi: Pusu Sezon 1 Bölüm 1
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/15fnwywr4zcevthp7thy/master.m3u8
 #EXTINF:-1 tvg-name="Kurtlar Vadisi: Pusu Sezon 1 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="KURTLAR_VADISI_PUSU12" tvg-logo="https://dizifun4.com/images/data/2007_kurtlar-vadisi-pusu.webp" group-title="Kurtlar Vadisi: Pusu",Kurtlar Vadisi: Pusu Sezon 1 Bölüm 2
@@ -35491,6 +35581,16 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ibbec6yst8prfphaaioe/master.m3u8
 #EXTINF:-1 tvg-name="The Sandman Sezon 2 Bölüm 6" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_SANDMAN26" tvg-logo="https://dizifun4.com/images/data/the-sandman.webp" group-title="The Sandman",The Sandman Sezon 2 Bölüm 6
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xmf71brhbba8vuirhwsy/master.m3u8
+#EXTINF:-1 tvg-name="The Sandman Sezon 2 Bölüm 7" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_SANDMAN27" tvg-logo="https://dizifun4.com/images/data/the-sandman.webp" group-title="The Sandman",The Sandman Sezon 2 Bölüm 7
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/255ofhv5rx7rnwwnelrf/master.m3u8
+#EXTINF:-1 tvg-name="The Sandman Sezon 2 Bölüm 8" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_SANDMAN28" tvg-logo="https://dizifun4.com/images/data/the-sandman.webp" group-title="The Sandman",The Sandman Sezon 2 Bölüm 8
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/sce3qah2ge9enlxj5oah/master.m3u8
+#EXTINF:-1 tvg-name="The Sandman Sezon 2 Bölüm 9" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_SANDMAN29" tvg-logo="https://dizifun4.com/images/data/the-sandman.webp" group-title="The Sandman",The Sandman Sezon 2 Bölüm 9
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/dmyjb4pvnjxnbph9bhb5/master.m3u8
+#EXTINF:-1 tvg-name="The Sandman Sezon 2 Bölüm 10" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_SANDMAN210" tvg-logo="https://dizifun4.com/images/data/the-sandman.webp" group-title="The Sandman",The Sandman Sezon 2 Bölüm 10
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ojlv93g123yewkcxizp5/master.m3u8
+#EXTINF:-1 tvg-name="The Sandman Sezon 2 Bölüm 11" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_SANDMAN211" tvg-logo="https://dizifun4.com/images/data/the-sandman.webp" group-title="The Sandman",The Sandman Sezon 2 Bölüm 11
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/a43otjdm36on2hp95peo/master.m3u8
 #EXTINF:-1 tvg-name="Süper Dev Robot Kardeşler Sezon 1 Bölüm 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SUPER_DEV_ROBOT_KARDESLER11" tvg-logo="https://dizifun4.com/images/data/super-dev-robot-kardesler.webp" group-title="Süper Dev Robot Kardeşler",Süper Dev Robot Kardeşler Sezon 1 Bölüm 1
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/fgeic21sb9rz8kjz2eeu/master.m3u8
 #EXTINF:-1 tvg-name="Süper Dev Robot Kardeşler Sezon 1 Bölüm 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SUPER_DEV_ROBOT_KARDESLER12" tvg-logo="https://dizifun4.com/images/data/super-dev-robot-kardesler.webp" group-title="Süper Dev Robot Kardeşler",Süper Dev Robot Kardeşler Sezon 1 Bölüm 2
