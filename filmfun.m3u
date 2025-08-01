@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Dürüst Bir Hayat" tvg-language="Turkish" tvg-country="TR" tvg-id="DURUST_BIR_HAYAT" tvg-logo="https://dizifun4.com/images/data/2025_durust-bir-hayat.webp" group-title="Filmler",Dürüst Bir Hayat
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/o2cs1n5y96a5txvm76dc/master.m3u8
+#EXTINF:-1 tvg-name="Masumlar" tvg-language="Turkish" tvg-country="TR" tvg-id="MASUMLAR" tvg-logo="https://dizifun4.com/images/data/2016_masumlar.webp" group-title="Filmler",Masumlar
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/klihw9xj4yb36q9rfe67/master.m3u8
+#EXTINF:-1 tvg-name="Orman Çocuğu" tvg-language="Turkish" tvg-country="TR" tvg-id="ORMAN_COCUGU" tvg-logo="https://dizifun4.com/images/data/1967_orman-cocugu.webp" group-title="Filmler",Orman Çocuğu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/37586vsjpwrpfe4volbq/master.m3u8
+#EXTINF:-1 tvg-name="Güzel ve Çirkin" tvg-language="Turkish" tvg-country="TR" tvg-id="GUZEL_VE_CIRKIN" tvg-logo="https://dizifun4.com/images/data/1991_guzel-ve-cirkin.webp" group-title="Filmler",Güzel ve Çirkin
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/kswu418kfi89s2rpwlzf/master.m3u8
+#EXTINF:-1 tvg-name="Sevdiklerimiz" tvg-language="Turkish" tvg-country="TR" tvg-id="SEVDIKLERIMIZ" tvg-logo="https://dizifun4.com/images/data/2015_sevdiklerimiz.webp" group-title="Filmler",Sevdiklerimiz
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/9z6h9sdpmyusowpwxvg9/master.m3u8
+#EXTINF:-1 tvg-name="Sev Beni" tvg-language="Turkish" tvg-country="TR" tvg-id="SEV_BENI" tvg-logo="https://dizifun4.com/images/data/2025_sev-beni.webp" group-title="Filmler",Sev Beni
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/9naa986n9o14w9o8nzfe/master.m3u8
+#EXTINF:-1 tvg-name="Kara Kule" tvg-language="Turkish" tvg-country="TR" tvg-id="KARA_KULE" tvg-logo="https://dizifun4.com/images/data/2017_kara-kule.webp" group-title="Filmler",Kara Kule
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/4zj8q5luzu4b2xddeh2w/master.m3u8
+#EXTINF:-1 tvg-name="Son Durak 5" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_DURAK_5" tvg-logo="https://dizifun4.com/images/data/2011_son-durak-5.webp" group-title="Filmler",Son Durak 5
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/jiie725rd8wnjexixfac/master.m3u8
+#EXTINF:-1 tvg-name="Son Durak 4" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_DURAK_4" tvg-logo="https://dizifun4.com/images/data/2009_son-durak-4.webp" group-title="Filmler",Son Durak 4
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qq8qr1wfhsdiqhnq9dhs/master.m3u8
+#EXTINF:-1 tvg-name="Son Durak 3" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_DURAK_3" tvg-logo="https://dizifun4.com/images/data/2006_son-durak-3.webp" group-title="Filmler",Son Durak 3
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qzm64b76iomekzpe2sea/master.m3u8
+#EXTINF:-1 tvg-name="Son Durak 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_DURAK_2" tvg-logo="https://dizifun4.com/images/data/2003_son-durak-2.webp" group-title="Filmler",Son Durak 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/nieyvpzrusjjlnfsy3cb/master.m3u8
+#EXTINF:-1 tvg-name="Son Durak" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_DURAK" tvg-logo="https://dizifun4.com/images/data/2000_son-durak.webp" group-title="Filmler",Son Durak
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/gabu211oipu28u4tk7f4/master.m3u8
 #EXTINF:-1 tvg-name="Katil Yılanlar" tvg-language="Turkish" tvg-country="TR" tvg-id="KATIL_YILANLAR" tvg-logo="https://dizifun4.com/images/data/2006_katil-yilanlar.webp" group-title="Filmler",Katil Yılanlar
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zvxsyuig3hssgapzh3cp/master.m3u8
 #EXTINF:-1 tvg-name="İyi Kızlar" tvg-language="Turkish" tvg-country="TR" tvg-id="IYI_KIZLAR" tvg-logo="https://dizifun4.com/images/data/2013_iyi-kizlar.webp" group-title="Filmler",İyi Kızlar
@@ -139,7 +163,7 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/m9zzk7fnvlgqn191l7n4/master.m3u8
 #EXTINF:-1 tvg-name="Tatlım" tvg-language="Turkish" tvg-country="TR" tvg-id="TATLIM" tvg-logo="https://dizifun4.com/images/data/1970_tatlim.webp" group-title="Filmler",Tatlım
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/wa3cweb7387fa25xi7ri/master.m3u8
-#EXTINF:-1 tvg-name="Bilinmeyen Film" tvg-language="Turkish" tvg-country="TR" tvg-id="BILINMEYEN_FILM" tvg-logo="" group-title="Filmler",Bilinmeyen Film
+#EXTINF:-1 tvg-name="Çıplak Silah 33⅓: Son Hakaret" tvg-language="Turkish" tvg-country="TR" tvg-id="CIPLAK_SILAH_33_SON_HAKARET" tvg-logo="https://dizifun4.com/images/data/1994_ciplak-silah-33-son-hakaret.webp" group-title="Filmler",Çıplak Silah 33⅓: Son Hakaret
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/35uwhcgk2zs8zzhf21m5/master.m3u8
 #EXTINF:-1 tvg-name="Çıplak Silah 2: Korkunun Kokusu" tvg-language="Turkish" tvg-country="TR" tvg-id="CIPLAK_SILAH_2_KORKUNUN_KOKUSU" tvg-logo="https://dizifun4.com/images/data/1991_ciplak-silah-2-korkunun-kokusu.webp" group-title="Filmler",Çıplak Silah 2: Korkunun Kokusu
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/lkvmiuyz6kkyeosdg2ml/master.m3u8
