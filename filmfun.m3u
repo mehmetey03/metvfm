@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="The Monkey" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_MONKEY" tvg-logo="https://dizifun4.com/images/data/2025_the-monkey.webp" group-title="Filmler",The Monkey
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/a27tlgnsxy235zsxx6fk/master.m3u8
+#EXTINF:-1 tvg-name="Oxford Aşkım" tvg-language="Turkish" tvg-country="TR" tvg-id="OXFORD_ASKIM" tvg-logo="https://dizifun4.com/images/data/2025_oxford-askim.webp" group-title="Filmler",Oxford Aşkım
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1if7q4mpjglazf71zoyj/master.m3u8
+#EXTINF:-1 tvg-name="Şeytan Tohumları" tvg-language="Turkish" tvg-country="TR" tvg-id="SEYTAN_TOHUMLARI" tvg-logo="https://dizifun4.com/images/data/2024_seytan-tohumlari.webp" group-title="Filmler",Şeytan Tohumları
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1s5wodzlbrcwe8ksuzbt/master.m3u8
+#EXTINF:-1 tvg-name="Samia" tvg-language="Turkish" tvg-country="TR" tvg-id="SAMIA" tvg-logo="https://dizifun4.com/images/data/2024_samia.webp" group-title="Filmler",Samia
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/3mqfxeq6nx8b4gjaf515/master.m3u8
+#EXTINF:-1 tvg-name="Tahin Pekmez" tvg-language="Turkish" tvg-country="TR" tvg-id="TAHIN_PEKMEZ" tvg-logo="https://dizifun4.com/images/data/2017_tahin-pekmez.webp" group-title="Filmler",Tahin Pekmez
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/mv57waa3794sden11u2u/master.m3u8
+#EXTINF:-1 tvg-name="Milyoner" tvg-language="Turkish" tvg-country="TR" tvg-id="MILYONER" tvg-logo="https://dizifun4.com/images/data/2008_milyoner.webp" group-title="Filmler",Milyoner
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/xujp82foxol9ybhxdp6z/master.m3u8
+#EXTINF:-1 tvg-name="Pirana" tvg-language="Turkish" tvg-country="TR" tvg-id="PIRANA" tvg-logo="https://dizifun4.com/images/data/2010_piranha-3d.webp" group-title="Filmler",Pirana
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/3msjzwxc6szixzy2zmar/master.m3u8
 #EXTINF:-1 tvg-name="Dürüst Bir Hayat" tvg-language="Turkish" tvg-country="TR" tvg-id="DURUST_BIR_HAYAT" tvg-logo="https://dizifun4.com/images/data/2025_durust-bir-hayat.webp" group-title="Filmler",Dürüst Bir Hayat
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/o2cs1n5y96a5txvm76dc/master.m3u8
 #EXTINF:-1 tvg-name="Masumlar" tvg-language="Turkish" tvg-country="TR" tvg-id="MASUMLAR" tvg-logo="https://dizifun4.com/images/data/2016_masumlar.webp" group-title="Filmler",Masumlar
@@ -602,7 +616,7 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 #EXTINF:-1 tvg-name="Görevimiz Tehlike - Son Hesaplaşma" tvg-language="Turkish" tvg-country="TR" tvg-id="GOREVIMIZ_TEHLIKE_SON_HESAPLASMA" tvg-logo="https://dizifun4.com/images/data/2025_gorevimiz-tehlike---son-hesaplasma.webp" group-title="Filmler",Görevimiz Tehlike - Son Hesaplaşma
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/k85sw79f1bh99cz3bwmw/master.m3u8
 #EXTINF:-1 tvg-name="Son Durak: Kan Bağı" tvg-language="Turkish" tvg-country="TR" tvg-id="SON_DURAK_KAN_BAGI" tvg-logo="https://dizifun4.com/images/data/2025_son-durak-kan-bagi.webp" group-title="Filmler",Son Durak: Kan Bağı
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/5nj5dpj85lx39oyaju8a/master.m3u8
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zdf9sv3eqt5rbak7mcom/master.m3u8
 #EXTINF:-1 tvg-name="Rafadan Tayfa: Galaktik Tayfa" tvg-language="Turkish" tvg-country="TR" tvg-id="RAFADAN_TAYFA_GALAKTIK_TAYFA" tvg-logo="https://dizifun4.com/images/data/2023_rafadan-tayfa-galaktik-tayfa.webp" group-title="Filmler",Rafadan Tayfa: Galaktik Tayfa
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/bcug9rlx38uk3lueq1dl/master.m3u8
 #EXTINF:-1 tvg-name="Körfez" tvg-language="Turkish" tvg-country="TR" tvg-id="KORFEZ" tvg-logo="https://dizifun4.com/images/data/2017_korfez.webp" group-title="Filmler",Körfez
