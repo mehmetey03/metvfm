@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Cassino Ischia'da" tvg-language="Turkish" tvg-country="TR" tvg-id="CASSINO_ISCHIADA" tvg-logo="https://dizifun4.com/images/data/2024_cassino-ischiada.webp" group-title="Filmler",Cassino Ischia'da
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/cluqakfvu4qcpg8vdj1n/master.m3u8
+#EXTINF:-1 tvg-name="Sevgili Noel Baba" tvg-language="Turkish" tvg-country="TR" tvg-id="SEVGILI_NOEL_BABA" tvg-logo="https://dizifun4.com/images/data/2024_sevgili-noel-baba.webp" group-title="Filmler",Sevgili Noel Baba
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2y19zpxfzwab1vjebcy5/master.m3u8
+#EXTINF:-1 tvg-name="Genç Eş" tvg-language="Turkish" tvg-country="TR" tvg-id="GENC_ES" tvg-logo="https://dizifun4.com/images/data/2023_genc-es.webp" group-title="Filmler",Genç Eş
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/pakvp8qh1g1eipr37kmk/master.m3u8
+#EXTINF:-1 tvg-name="Damat Takımı" tvg-language="Turkish" tvg-country="TR" tvg-id="DAMAT_TAKIMI" tvg-logo="https://dizifun4.com/images/data/2017_damat-takimi.webp" group-title="Filmler",Damat Takımı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/7zc8s6szs191sojggjgq/master.m3u8
+#EXTINF:-1 tvg-name="Balistik" tvg-language="Turkish" tvg-country="TR" tvg-id="BALISTIK" tvg-logo="https://dizifun4.com/images/data/02-08-2025-balistik.png" group-title="Filmler",Balistik
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/zx3afku7hv1nhetaokej/master.m3u8
+#EXTINF:-1 tvg-name="Daire 7A" tvg-language="Turkish" tvg-country="TR" tvg-id="DAIRE_7A" tvg-logo="https://dizifun4.com/images/data/2024_daire-7a.webp" group-title="Filmler",Daire 7A
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ykqwiu6gsrt9yi9srep5/master.m3u8
 #EXTINF:-1 tvg-name="The Monkey" tvg-language="Turkish" tvg-country="TR" tvg-id="THE_MONKEY" tvg-logo="https://dizifun4.com/images/data/2025_the-monkey.webp" group-title="Filmler",The Monkey
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/a27tlgnsxy235zsxx6fk/master.m3u8
 #EXTINF:-1 tvg-name="Oxford Aşkım" tvg-language="Turkish" tvg-country="TR" tvg-id="OXFORD_ASKIM" tvg-logo="https://dizifun4.com/images/data/2025_oxford-askim.webp" group-title="Filmler",Oxford Aşkım
@@ -3159,8 +3171,6 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/ydavdumap19pii5e1e5i/master.m3u8
 #EXTINF:-1 tvg-name="Baby Ruby" tvg-language="Turkish" tvg-country="TR" tvg-id="BABY_RUBY" tvg-logo="https://dizifun4.com/images/data/baby-ruby.webp" group-title="Filmler",Baby Ruby
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/xyfx5pn11ji1o3jhuz2s/master.m3u8
-#EXTINF:-1 tvg-name="Yeni Hayat" tvg-language="Turkish" tvg-country="TR" tvg-id="YENI_HAYAT" tvg-logo="https://dizifun4.com/images/data/yeni-hayat.webp" group-title="Filmler",Yeni Hayat
-https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/yi11w2aj3zcno9rii2ov/master.m3u8
 #EXTINF:-1 tvg-name="Seks yalanları" tvg-language="Turkish" tvg-country="TR" tvg-id="SEKS_YALANLARI" tvg-logo="https://dizifun4.com/images/data/seks-yalanlari.webp" group-title="Filmler",Seks yalanları
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/fg6qhd8lbyys7vevefoz/master.m3u8
 #EXTINF:-1 tvg-name="Gidersen Gitme" tvg-language="Turkish" tvg-country="TR" tvg-id="GIDERSEN_GITME" tvg-logo="https://dizifun4.com/images/data/gidersen-gitme.webp" group-title="Filmler",Gidersen Gitme
