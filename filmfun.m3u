@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Sevimli Kedi İş Başında" tvg-language="Turkish" tvg-country="TR" tvg-id="SEVIMLI_KEDI_IS_BASINDA" tvg-logo="https://dizifun4.com/images/data/2011_sevimli-kedi-is-basinda.webp" group-title="Filmler",Sevimli Kedi İş Başında
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/gf6xxmggd9c5oye4okev/master.m3u8
+#EXTINF:-1 tvg-name="Sevimli Kedi İş Başında 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SEVIMLI_KEDI_IS_BASINDA_2" tvg-logo="https://dizifun4.com/images/data/2015_sevimli-kedi-is-basinda-2.webp" group-title="Filmler",Sevimli Kedi İş Başında 2
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/a75xgicdgmxj9s8ztohb/master.m3u8
+#EXTINF:-1 tvg-name="Karanlık Çökünce" tvg-language="Turkish" tvg-country="TR" tvg-id="KARANLIK_COKUNCE" tvg-logo="https://dizifun4.com/images/data/2003_karanlik-cokunce.webp" group-title="Filmler",Karanlık Çökünce
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1scfepb5z5i4p3dbwa7g/master.m3u8
+#EXTINF:-1 tvg-name="Güzel Bir Hayat" tvg-language="Turkish" tvg-country="TR" tvg-id="GUZEL_BIR_HAYAT" tvg-logo="https://dizifun4.com/images/data/2009_guzel-bir-hayat.webp" group-title="Filmler",Güzel Bir Hayat
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/jpmkqwql1o4okolkcmhg/master.m3u8
+#EXTINF:-1 tvg-name="Bir Kahramanın Rüyası" tvg-language="Turkish" tvg-country="TR" tvg-id="BIR_KAHRAMANIN_RUYASI" tvg-logo="https://dizifun4.com/images/data/2017_bir-kahramanin-ruyasi.webp" group-title="Filmler",Bir Kahramanın Rüyası
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/oxmcgyewr8zoapydzvt5/master.m3u8
+#EXTINF:-1 tvg-name="Yıl 2000" tvg-language="Turkish" tvg-country="TR" tvg-id="YIL_2000" tvg-logo="https://dizifun4.com/images/data/2024_yil-2000.webp" group-title="Filmler",Yıl 2000
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/g63gjssewqz68dto4cq6/master.m3u8
+#EXTINF:-1 tvg-name="Ölü Ozanlar Derneği" tvg-language="Turkish" tvg-country="TR" tvg-id="OLU_OZANLAR_DERNEGI" tvg-logo="https://dizifun4.com/images/data/1989_olu-ozanlar-dernegi.webp" group-title="Filmler",Ölü Ozanlar Derneği
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1hequefz7v5ocislrrd3/master.m3u8
+#EXTINF:-1 tvg-name="Aşka Düşmek" tvg-language="Turkish" tvg-country="TR" tvg-id="ASKA_DUSMEK" tvg-logo="https://dizifun4.com/images/data/2023_aska-dusmek.webp" group-title="Filmler",Aşka Düşmek
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/cy9mt561lnuiczh3jcad/master.m3u8
 #EXTINF:-1 tvg-name="Drop: Kabul Et veya Reddet" tvg-language="Turkish" tvg-country="TR" tvg-id="DROP_KABUL_ET_VEYA_REDDET" tvg-logo="https://dizifun4.com/images/data/2025_drop-kabul-et-veya-reddet.webp" group-title="Filmler",Drop: Kabul Et veya Reddet
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/96srcf642884p5tmm82l/master.m3u8
 #EXTINF:-1 tvg-name="Saklı Krallık" tvg-language="Turkish" tvg-country="TR" tvg-id="SAKLI_KRALLIK" tvg-logo="https://dizifun4.com/images/data/2024_sakli-krallik.webp" group-title="Filmler",Saklı Krallık
