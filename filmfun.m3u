@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Beyoğlu'nun Arka Yakası" tvg-language="Turkish" tvg-country="TR" tvg-id="BEYOGLUNUN_ARKA_YAKASI" tvg-logo="https://dizifun4.com/images/data/1986_beyoglunun-arka-yakasi.webp" group-title="Filmler",Beyoğlu'nun Arka Yakası
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/5lg19qkjdhra7xshr27x/master.m3u8
+#EXTINF:-1 tvg-name="Geri Sayım" tvg-language="Turkish" tvg-country="TR" tvg-id="GERI_SAYIM" tvg-logo="https://dizifun4.com/images/data/2007_geri-sayim.webp" group-title="Filmler",Geri Sayım
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/f6nnwu9ju6p8ola6g9jq/master.m3u8
+#EXTINF:-1 tvg-name="Vahşi Doğa" tvg-language="Turkish" tvg-country="TR" tvg-id="VAHSI_DOGA" tvg-logo="https://dizifun4.com/images/data/2015_vahsi-doga.webp" group-title="Filmler",Vahşi Doğa
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/i33y2iwwgeqpejpk4fex/master.m3u8
+#EXTINF:-1 tvg-name="Yıldız Cephesi" tvg-language="Turkish" tvg-country="TR" tvg-id="YILDIZ_CEPHESI" tvg-logo="https://dizifun4.com/images/data/2020_yildiz-cephesi.webp" group-title="Filmler",Yıldız Cephesi
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/euhuzhccnwv219sfq6ca/master.m3u8
+#EXTINF:-1 tvg-name="Tek Gecelik Aşk" tvg-language="Turkish" tvg-country="TR" tvg-id="TEK_GECELIK_ASK" tvg-logo="https://dizifun4.com/images/data/2014_tek-gecelik-ask.webp" group-title="Filmler",Tek Gecelik Aşk
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/6si8ord5g18tttlt1y27/master.m3u8
 #EXTINF:-1 tvg-name="Sevimli Kedi İş Başında" tvg-language="Turkish" tvg-country="TR" tvg-id="SEVIMLI_KEDI_IS_BASINDA" tvg-logo="https://dizifun4.com/images/data/2011_sevimli-kedi-is-basinda.webp" group-title="Filmler",Sevimli Kedi İş Başında
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/gf6xxmggd9c5oye4okev/master.m3u8
 #EXTINF:-1 tvg-name="Sevimli Kedi İş Başında 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SEVIMLI_KEDI_IS_BASINDA_2" tvg-logo="https://dizifun4.com/images/data/2015_sevimli-kedi-is-basinda-2.webp" group-title="Filmler",Sevimli Kedi İş Başında 2
