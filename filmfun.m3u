@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Buffalo Kids" tvg-language="Turkish" tvg-country="TR" tvg-id="BUFFALO_KIDS" tvg-logo="https://dizifun4.com/images/data/2024_buffalo-kids.webp" group-title="Filmler",Buffalo Kids
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/vq7ii2ic5yi93z7jcrg7/master.m3u8
+#EXTINF:-1 tvg-name="Kneecap" tvg-language="Turkish" tvg-country="TR" tvg-id="KNEECAP" tvg-logo="https://dizifun4.com/images/data/2024_kneecap.webp" group-title="Filmler",Kneecap
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/3n8duodvo35qq2z2n4rf/master.m3u8
+#EXTINF:-1 tvg-name="Sally" tvg-language="Turkish" tvg-country="TR" tvg-id="SALLY" tvg-logo="https://dizifun4.com/images/data/2025_sally.webp" group-title="Filmler",Sally
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/x6778g4fghlyoaej4s9t/master.m3u8
+#EXTINF:-1 tvg-name="Ip Man: Son Dövüş" tvg-language="Turkish" tvg-country="TR" tvg-id="IP_MAN_SON_DOVUS" tvg-logo="https://dizifun4.com/images/data/2013_ip-man-son-dovus.webp" group-title="Filmler",Ip Man: Son Dövüş
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/s6z6a6hnlhpmfu7gvsp6/master.m3u8
+#EXTINF:-1 tvg-name="Kurtlar Kapıda" tvg-language="Turkish" tvg-country="TR" tvg-id="KURTLAR_KAPIDA" tvg-logo="https://dizifun4.com/images/data/2016_kurtlar-kapida.webp" group-title="Filmler",Kurtlar Kapıda
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/sqfoyxz3mouvueytp5vb/master.m3u8
 #EXTINF:-1 tvg-name="Gizli Numara" tvg-language="Turkish" tvg-country="TR" tvg-id="GIZLI_NUMARA" tvg-logo="https://dizifun4.com/images/data/2014_gizli-numara.webp" group-title="Filmler",Gizli Numara
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/d1aiyram8svzfmy9smyj/master.m3u8
 #EXTINF:-1 tvg-name="Suç Alemi" tvg-language="Turkish" tvg-country="TR" tvg-id="SUC_ALEMI" tvg-logo="https://dizifun4.com/images/data/2023_suc-alemi.webp" group-title="Filmler",Suç Alemi
@@ -1579,7 +1589,7 @@ https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=ht
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/j4snnxfv74g9iv2qyi18/master.m3u8
 #EXTINF:-1 tvg-name="Oray" tvg-language="Turkish" tvg-country="TR" tvg-id="ORAY" tvg-logo="https://dizifun4.com/images/data/2021_oray.webp" group-title="Filmler",Oray
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/om52lsok54hjns7vvir4/master.m3u8
-#EXTINF:-1 tvg-name="Bilinmeyen Film" tvg-language="Turkish" tvg-country="TR" tvg-id="BILINMEYEN_FILM" tvg-logo="" group-title="Filmler",Bilinmeyen Film
+#EXTINF:-1 tvg-name="Peri: Ağzı Olmayan Kız" tvg-language="Turkish" tvg-country="TR" tvg-id="PERI_AGZI_OLMAYAN_KIZ" tvg-logo="https://dizifun4.com/images/data/2019_peri-agzi-olmayan-kiz.webp" group-title="Filmler",Peri: Ağzı Olmayan Kız
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/altfo94m9qk9zcby3s3m/master.m3u8
 #EXTINF:-1 tvg-name="Erkek Tarafı: Testosteron" tvg-language="Turkish" tvg-country="TR" tvg-id="ERKEK_TARAFI_TESTOSTERON" tvg-logo="https://dizifun4.com/images/data/2013_erkek-tarafi-testosteron.webp" group-title="Filmler",Erkek Tarafı: Testosteron
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d1.premiumvideo.click/uploads/encode/byd5izknnl7oztilvwpx/master.m3u8
