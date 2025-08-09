@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Echo Valley" tvg-language="Turkish" tvg-country="TR" tvg-id="ECHO_VALLEY" tvg-logo="https://dizifun4.com/images/data/2025_echo-valley.webp" group-title="Filmler",Echo Valley
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1jc7o6roqmkk7qmtegos/master.m3u8
+#EXTINF:-1 tvg-name="Summer of 69" tvg-language="Turkish" tvg-country="TR" tvg-id="SUMMER_OF_69" tvg-logo="https://dizifun4.com/images/data/2025_summer-of-69.webp" group-title="Filmler",Summer of 69
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/86ha5vrhhouftgzi1igr/master.m3u8
+#EXTINF:-1 tvg-name="Müdahale" tvg-language="Turkish" tvg-country="TR" tvg-id="MUDAHALE" tvg-logo="https://dizifun4.com/images/data/2007_mudahale.webp" group-title="Filmler",Müdahale
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2ec1augz5tmm1yo12dxe/master.m3u8
+#EXTINF:-1 tvg-name="Ölüm Habercisi" tvg-language="Turkish" tvg-country="TR" tvg-id="OLUM_HABERCISI" tvg-logo="https://dizifun4.com/images/data/2015_olum-habercisi.webp" group-title="Filmler",Ölüm Habercisi
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/78mji61dg2xgxdza1cui/master.m3u8
+#EXTINF:-1 tvg-name="istiklal Kahramanları" tvg-language="Turkish" tvg-country="TR" tvg-id="ISTIKLAL_KAHRAMANLARI" tvg-logo="https://dizifun4.com/images/data/1954_istiklal-kahramanlari.webp" group-title="Filmler",istiklal Kahramanları
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/4c6ndb89dz3slv2ugsuu/master.m3u8
+#EXTINF:-1 tvg-name="Rafadan Tayfa: Kapadokya" tvg-language="Turkish" tvg-country="TR" tvg-id="RAFADAN_TAYFA_KAPADOKYA" tvg-logo="https://dizifun4.com/images/data/2024_rafadan-tayfa-kapadokya.webp" group-title="Filmler",Rafadan Tayfa: Kapadokya
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/71rwy7b4i1fh17ltleyz/master.m3u8
+#EXTINF:-1 tvg-name="Varlık" tvg-language="Turkish" tvg-country="TR" tvg-id="VARLIK" tvg-logo="https://dizifun4.com/images/data/2025_varlik.webp" group-title="Filmler",Varlık
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/c9hlgfzrwu4zv1b19vlb/master.m3u8
+#EXTINF:-1 tvg-name="Şut ve Gol" tvg-language="Turkish" tvg-country="TR" tvg-id="SUT_VE_GOL" tvg-logo="https://dizifun4.com/images/data/2005_sut-ve-gol.webp" group-title="Filmler",Şut ve Gol
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/5zo2zi89f2uoej3e9itq/master.m3u8
+#EXTINF:-1 tvg-name="Asiye Nasıl Kurtulur" tvg-language="Turkish" tvg-country="TR" tvg-id="ASIYE_NASIL_KURTULUR" tvg-logo="https://dizifun4.com/images/data/1987_asiye-nasil-kurtulur.webp" group-title="Filmler",Asiye Nasıl Kurtulur
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/2b2eapcqot7tmtr7hhgm/master.m3u8
+#EXTINF:-1 tvg-name="Asrın Elmas Soygunu" tvg-language="Turkish" tvg-country="TR" tvg-id="ASRIN_ELMAS_SOYGUNU" tvg-logo="https://dizifun4.com/images/data/2025_asrin-elmas-soygunu.webp" group-title="Filmler",Asrın Elmas Soygunu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/5on4jvvtbfa56l99xwux/master.m3u8
 #EXTINF:-1 tvg-name="Buffalo Kids" tvg-language="Turkish" tvg-country="TR" tvg-id="BUFFALO_KIDS" tvg-logo="https://dizifun4.com/images/data/2024_buffalo-kids.webp" group-title="Filmler",Buffalo Kids
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/vq7ii2ic5yi93z7jcrg7/master.m3u8
 #EXTINF:-1 tvg-name="Kneecap" tvg-language="Turkish" tvg-country="TR" tvg-id="KNEECAP" tvg-logo="https://dizifun4.com/images/data/2024_kneecap.webp" group-title="Filmler",Kneecap
