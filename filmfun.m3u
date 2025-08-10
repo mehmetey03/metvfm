@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="What The Finn: Summer Of Surprises" tvg-language="Turkish" tvg-country="TR" tvg-id="WHAT_THE_FINN_SUMMER_OF_SURPRISES" tvg-logo="https://dizifun4.com/images/data/2023_what-the-finn-summer-of-surprises.webp" group-title="Filmler",What The Finn: Summer Of Surprises
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/djqy7ialygq6mi4kydpm/master.m3u8
+#EXTINF:-1 tvg-name="Land of Bad" tvg-language="Turkish" tvg-country="TR" tvg-id="LAND_OF_BAD" tvg-logo="https://dizifun4.com/images/data/2024_land-of-bad.webp" group-title="Filmler",Land of Bad
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/jo1hbmj8rpxnqf6bbchx/master.m3u8
 #EXTINF:-1 tvg-name="Echo Valley" tvg-language="Turkish" tvg-country="TR" tvg-id="ECHO_VALLEY" tvg-logo="https://dizifun4.com/images/data/2025_echo-valley.webp" group-title="Filmler",Echo Valley
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/1jc7o6roqmkk7qmtegos/master.m3u8
 #EXTINF:-1 tvg-name="Summer of 69" tvg-language="Turkish" tvg-country="TR" tvg-id="SUMMER_OF_69" tvg-logo="https://dizifun4.com/images/data/2025_summer-of-69.webp" group-title="Filmler",Summer of 69
