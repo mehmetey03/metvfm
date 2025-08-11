@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Tek Başına" tvg-language="Turkish" tvg-country="TR" tvg-id="TEK_BASINA" tvg-logo="https://dizifun4.com/images/data/1973_tek-basina.webp" group-title="Filmler",Tek Başına
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/g3whiszj7xxcqu84tzfm/master.m3u8
+#EXTINF:-1 tvg-name="Kanunsuz Yol" tvg-language="Turkish" tvg-country="TR" tvg-id="KANUNSUZ_YOL" tvg-logo="https://dizifun4.com/images/data/1975_kanunsuz-yol.webp" group-title="Filmler",Kanunsuz Yol
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/jyjepvlfwzpwk4r44svn/master.m3u8
+#EXTINF:-1 tvg-name="Büyük Yemin" tvg-language="Turkish" tvg-country="TR" tvg-id="BUYUK_YEMIN" tvg-logo="https://dizifun4.com/images/data/1977_buyuk-yemin.webp" group-title="Filmler",Büyük Yemin
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/dsnujzs31fenzby7q648/master.m3u8
+#EXTINF:-1 tvg-name="Cam Ustası" tvg-language="Turkish" tvg-country="TR" tvg-id="CAM_USTASI" tvg-logo="https://dizifun4.com/images/data/2024_cam-ustasi.webp" group-title="Filmler",Cam Ustası
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ns4q3e4ueudohz5qohp7/master.m3u8
+#EXTINF:-1 tvg-name="Tonio" tvg-language="Turkish" tvg-country="TR" tvg-id="TONIO" tvg-logo="https://dizifun4.com/images/data/2016_tonio.webp" group-title="Filmler",Tonio
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/u5zzp5u9mnu92qvyp8go/master.m3u8
+#EXTINF:-1 tvg-name="Fil Kral" tvg-language="Turkish" tvg-country="TR" tvg-id="FIL_KRAL" tvg-logo="https://dizifun4.com/images/data/2006_fil-kral.webp" group-title="Filmler",Fil Kral
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/b9lsfx2tulsmahxhfwok/master.m3u8
+#EXTINF:-1 tvg-name="Koç Carter" tvg-language="Turkish" tvg-country="TR" tvg-id="KOC_CARTER" tvg-logo="https://dizifun4.com/images/data/2005_koc-carter.webp" group-title="Filmler",Koç Carter
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/erdm5s4doiihpg1yc7m5/master.m3u8
+#EXTINF:-1 tvg-name="Bereketli Topraklar Üzerinde" tvg-language="Turkish" tvg-country="TR" tvg-id="BEREKETLI_TOPRAKLAR_UZERINDE" tvg-logo="https://dizifun4.com/images/data/1980_bereketli-topraklar-uzerinde.webp" group-title="Filmler",Bereketli Topraklar Üzerinde
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/q8nmtc9jf9mszvriizmh/master.m3u8
 #EXTINF:-1 tvg-name="What The Finn: Summer Of Surprises" tvg-language="Turkish" tvg-country="TR" tvg-id="WHAT_THE_FINN_SUMMER_OF_SURPRISES" tvg-logo="https://dizifun4.com/images/data/2023_what-the-finn-summer-of-surprises.webp" group-title="Filmler",What The Finn: Summer Of Surprises
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/djqy7ialygq6mi4kydpm/master.m3u8
 #EXTINF:-1 tvg-name="Land of Bad" tvg-language="Turkish" tvg-country="TR" tvg-id="LAND_OF_BAD" tvg-logo="https://dizifun4.com/images/data/2024_land-of-bad.webp" group-title="Filmler",Land of Bad
