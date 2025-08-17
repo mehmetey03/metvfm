@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Gece Kasabı" tvg-language="Turkish" tvg-country="TR" tvg-id="GECE_KASABI" tvg-logo="https://dizifun5.com/images/data/2024_gece-kasabi.webp" group-title="Filmler",Gece Kasabı
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/p1g3n2ulh1pcvxdigta4/master.m3u8
+#EXTINF:-1 tvg-name="Ozi: Doğanın Koruyucusu" tvg-language="Turkish" tvg-country="TR" tvg-id="OZI_DOGANIN_KORUYUCUSU" tvg-logo="https://dizifun5.com/images/data/2024_ozi-doganin-koruyucusu.webp" group-title="Filmler",Ozi: Doğanın Koruyucusu
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/43tiuzzjha8g8tz6d1gm/master.m3u8
+#EXTINF:-1 tvg-name="Acı Gerçekler" tvg-language="Turkish" tvg-country="TR" tvg-id="ACI_GERCEKLER" tvg-logo="https://dizifun5.com/images/data/2024_aci-gercekler.webp" group-title="Filmler",Acı Gerçekler
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/m4ikngtq85gldmnr2cc1/master.m3u8
 #EXTINF:-1 tvg-name="Gece Elbet Çöker" tvg-language="Turkish" tvg-country="TR" tvg-id="GECE_ELBET_COKER" tvg-logo="https://dizifun5.com/images/data/2025_gece-elbet-coker.webp" group-title="Filmler",Gece Elbet Çöker
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/a9ycpunxss1udkjblwfu/master.m3u8
 #EXTINF:-1 tvg-name="Mononoke The Movie: Chapter II - The Ashes of Rage" tvg-language="Turkish" tvg-country="TR" tvg-id="MONONOKE_THE_MOVIE_CHAPTER_II_THE_ASHES_OF_RAGE" tvg-logo="https://dizifun5.com/images/data/2025_mononoke-the-movie-chapter-ii-the-ashes-of-rage.webp" group-title="Filmler",Mononoke The Movie: Chapter II - The Ashes of Rage
