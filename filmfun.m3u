@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Şeytanla Bir Gece" tvg-language="Turkish" tvg-country="TR" tvg-id="SEYTANLA_BIR_GECE" tvg-logo="https://dizifun5.com/images/data/2024_seytanla-bir-gece.webp" group-title="Filmler",Şeytanla Bir Gece
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qx9kqj4ji7fjmphrgikp/master.m3u8
+#EXTINF:-1 tvg-name="Jessabelle" tvg-language="Turkish" tvg-country="TR" tvg-id="JESSABELLE" tvg-logo="https://dizifun5.com/images/data/2014_jessabelle.webp" group-title="Filmler",Jessabelle
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/6t4ldpqgkoyzcyxiq769/master.m3u8
+#EXTINF:-1 tvg-name="Aşk Sudan Ağırdır" tvg-language="Turkish" tvg-country="TR" tvg-id="ASK_SUDAN_AGIRDIR" tvg-logo="https://dizifun5.com/images/data/2017_ask-sudan-agirdir.webp" group-title="Filmler",Aşk Sudan Ağırdır
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/uzmvgtc6ixk4uezykojq/master.m3u8
+#EXTINF:-1 tvg-name="Ölümcül İhanet" tvg-language="Turkish" tvg-country="TR" tvg-id="OLUMCUL_IHANET" tvg-logo="https://dizifun5.com/images/data/2022_olumcul-ihanet.webp" group-title="Filmler",Ölümcül İhanet
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ra65yldq9or4g71p655n/master.m3u8
 #EXTINF:-1 tvg-name="Gece Kasabı" tvg-language="Turkish" tvg-country="TR" tvg-id="GECE_KASABI" tvg-logo="https://dizifun5.com/images/data/2024_gece-kasabi.webp" group-title="Filmler",Gece Kasabı
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/p1g3n2ulh1pcvxdigta4/master.m3u8
 #EXTINF:-1 tvg-name="Ozi: Doğanın Koruyucusu" tvg-language="Turkish" tvg-country="TR" tvg-id="OZI_DOGANIN_KORUYUCUSU" tvg-logo="https://dizifun5.com/images/data/2024_ozi-doganin-koruyucusu.webp" group-title="Filmler",Ozi: Doğanın Koruyucusu
