@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Vegas'ta Korku ve Nefret" tvg-language="Turkish" tvg-country="TR" tvg-id="VEGASTA_KORKU_VE_NEFRET" tvg-logo="https://dizifun5.com/images/data/1998_vegasta-korku-ve-nefret.webp" group-title="Filmler",Vegas'ta Korku ve Nefret
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/p3cprm4ezivew69h8xcz/master.m3u8
+#EXTINF:-1 tvg-name="Yıldızlararası" tvg-language="Turkish" tvg-country="TR" tvg-id="YILDIZLARARASI" tvg-logo="https://dizifun5.com/images/data/2014_yildizlararasi.webp" group-title="Filmler",Yıldızlararası
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/ng124rzmdoks8rm6vyca/master.m3u8
+#EXTINF:-1 tvg-name="Köpek ve Midilli" tvg-language="Turkish" tvg-country="TR" tvg-id="KOPEK_VE_MIDILLI" tvg-logo="https://dizifun5.com/images/data/2018_kopek-ve-midilli.webp" group-title="Filmler",Köpek ve Midilli
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/bzxihvimec6iflcbjno6/master.m3u8
+#EXTINF:-1 tvg-name="Kadınlara Mahsus" tvg-language="Turkish" tvg-country="TR" tvg-id="KADINLARA_MAHSUS" tvg-logo="https://dizifun5.com/images/data/2023_kadinlara-mahsus.webp" group-title="Filmler",Kadınlara Mahsus
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/io3ikznaf65uxzl2ebtc/master.m3u8
+#EXTINF:-1 tvg-name="Görünmez Kız" tvg-language="Turkish" tvg-country="TR" tvg-id="GORUNMEZ_KIZ" tvg-logo="https://dizifun5.com/images/data/2019_gorunmez-kiz.webp" group-title="Filmler",Görünmez Kız
+https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/jn448js377r42z134bii/master.m3u8
 #EXTINF:-1 tvg-name="Şeytanla Bir Gece" tvg-language="Turkish" tvg-country="TR" tvg-id="SEYTANLA_BIR_GECE" tvg-logo="https://dizifun5.com/images/data/2024_seytanla-bir-gece.webp" group-title="Filmler",Şeytanla Bir Gece
 https://proxydizifun.vercel.app/api/proxy.js?referer=https://dizifun4.com&url=https://d2.premiumvideo.click/uploads/encode/qx9kqj4ji7fjmphrgikp/master.m3u8
 #EXTINF:-1 tvg-name="Jessabelle" tvg-language="Turkish" tvg-country="TR" tvg-id="JESSABELLE" tvg-logo="https://dizifun5.com/images/data/2014_jessabelle.webp" group-title="Filmler",Jessabelle
